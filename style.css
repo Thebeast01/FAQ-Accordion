@@ -59,7 +59,12 @@ body .top-background {
     justify-content: space-between;
     align-items: center;
     padding: 16px 0;
+    cursor: pointer;
+    
+    }
 
+.question:hover {
+    color: hsl(293, 95%, 44%);
 }
 .question img{
     height: 25px;
