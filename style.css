@@ -92,7 +92,7 @@ hr{
 
 @media screen and (max-width: 375px) {
     body .top-background{
-        background: url(/assets/images/background-pattern-mobile.svg);
+        background: url(./assets/images/background-pattern-mobile.svg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
